@@ -1,3 +1,4 @@
+作业一：
 gap: 20px; /* 设置note元素之间的间距 */
 
 /* 垂直水平居中 */
@@ -14,3 +15,7 @@ align-items: center;/* 水平居中 */
 2. justify-content: space-around
 	•	含义：子元素之间的空隙相等，
         并且子元素与容器的左右边缘也留出相同大小的一半空隙。
+
+作业二：
+font-weight: 700; /* 标题加粗 */
+border-radius: 15px;/* 四角圆边*/
