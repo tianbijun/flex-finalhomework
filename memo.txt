@@ -1,7 +1,16 @@
 gap: 20px; /* 设置note元素之间的间距 */
 
-/*垂直水平居中*/
+/* 垂直水平居中 */
 display: flex;
 flex-direction: column;
 justify-content: center;/* 垂直居中 */
 align-items: center;/* 水平居中 */
+
+
+/* justify-content属性中space-between和space-around区别 */
+1. justify-content: space-between
+	•	含义：子元素之间的空隙均匀分布，
+        但第一个子元素和最后一个子元素分别贴近容器的左、右两边。
+2. justify-content: space-around
+	•	含义：子元素之间的空隙相等，
+        并且子元素与容器的左右边缘也留出相同大小的一半空隙。
