@@ -19,3 +19,6 @@ align-items: center;/* 水平居中 */
 作业二：
 font-weight: 700; /* 标题加粗 */
 border-radius: 15px;/* 四角圆边*/
+
+作业三：
+flex-wrap: wrap;/*当容器内的项目不能在一行内显示时，允许它们自动换行。 */
